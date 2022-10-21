@@ -8,6 +8,8 @@
 ### - I am a junior` developer.
 ### - I studing programming at `SSAFY` 8th.
 
+ ***
+
 ## 🍊Tech Stack
  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white) 
  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white) 
@@ -25,6 +27,6 @@
  
 [![dostiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dostiny)](https://github.com/dostiny/github-readme-stats)<br> 
 
- ***
+
 
 </div>
