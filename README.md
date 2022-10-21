@@ -5,8 +5,8 @@
  <a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/></a>
 ## Hello 👋 
 
-- I am a junior` developer.
-- I studing programming at `SSAFY` 8th.
+### - I am a junior` developer.
+### - I studing programming at `SSAFY` 8th.
 
 <!-- - I recently studying ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) -->
 
