@@ -8,7 +8,7 @@
 <!-- - I recently studying ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) -->
 
 ***
-<td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/><br /><sub><b>도겸</b></sub></a><br/></td>
+<td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/><br /></a><br></td>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dostiny)](https://solved.ac/dostiny)
  <img src="http://mazandi.herokuapp.com/api?handle=dostiny&theme=warm"/><br>
