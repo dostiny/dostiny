@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=#F5A9A9&color=gradient&height=100&section=header&text=DOGYEOM&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=DOGYEOM&fontSize=70&animation=scaleIn)
 
  <a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/></a>
 ## Hello 👋 
