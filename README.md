@@ -1,4 +1,4 @@
-<div align-content: center;>
+<div align = center;>
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=★dogyeom★&fontSize=70&animation=scaleIn)
 
