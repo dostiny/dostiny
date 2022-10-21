@@ -13,7 +13,7 @@
 
 ***
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dostiny)](https://solved.ac/dostiny)
+ [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dostiny)](https://solved.ac/dostiny)
  <img src="http://mazandi.herokuapp.com/api?handle=dostiny&theme=warm"/><br>
  [![dostiny's GitHub stats](https://github-readme-stats.vercel.app/api?username=dostiny)](https://github.com/dostiny/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dostiny&layout=compact)](https://github.com/dostiny/github-readme-stats)<br>
