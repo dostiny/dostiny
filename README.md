@@ -3,7 +3,7 @@
 #### Hello 👋 
 
 - I am a junior` developer.
-- I studied programming at `SSAFY` 8th.
+- I studing programming at `SSAFY` 8th.
 
 <!-- - I recently studying ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) -->
 
