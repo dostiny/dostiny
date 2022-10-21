@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=★dogyeom★&fontSize=70&animation=scaleIn)
 
-#### Hello 👋 
+ <td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/></a></td>
+ 
+## Hello 👋 
 
 - I am a junior` developer.
 - I studing programming at `SSAFY` 8th.
@@ -10,7 +12,6 @@
 <!-- - I recently studying ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) -->
 
 ***
-<td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/></a></td>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dostiny)](https://solved.ac/dostiny)
  <img src="http://mazandi.herokuapp.com/api?handle=dostiny&theme=warm"/><br>
