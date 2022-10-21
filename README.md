@@ -2,8 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=100&section=header&text=★dogyeom★&fontSize=70&animation=scaleIn)
 
- <td align="center"><a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/></a></td>
- 
+ <a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="100px;" alt=""/></a>
 ## Hello 👋 
 
 - I am a junior` developer.
