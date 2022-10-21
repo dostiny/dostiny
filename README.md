@@ -10,9 +10,8 @@
 
 <!-- - I recently studying ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) -->
 
- ***
- 
- [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dostiny)](https://solved.ac/dostiny) 
+***
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dostiny)](https://solved.ac/dostiny)
  
  <img src="http://mazandi.herokuapp.com/api?handle=dostiny&theme=warm"/>
  
