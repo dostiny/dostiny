@@ -17,7 +17,7 @@
  ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
  ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)<br>
- ![C++](https://img.shields.io/badge/C++-4FC08D?style=flat-square&logo=C++&logoColor=white)
+ ![C++]<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 <!-- - I recently studying ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) -->
 
