@@ -5,7 +5,7 @@
  <a href="https://github.com/dostiny"><img src="https://github.com/dostiny.png" width="200px;" alt=""/></a>
 ## Hello 👋 
 
-### - I am a junior` developer.
+### - I am a junior developer.
 ### - I studing programming at SSAFY 8th.
 
  ***
