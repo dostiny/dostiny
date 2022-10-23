@@ -6,7 +6,7 @@
 ## Hello 👋 
 
 ### - I am a junior` developer.
-### - I studing programming at `SSAFY` 8th.
+### - I studing programming at SSAFY 8th.
 
  ***
 
