@@ -16,7 +16,7 @@
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
  ![react](https://img.shields.io/badge/react-09D3AC?style=flat-square&logo=react&logoColor=white)
- ![Next.JS](https://img.shields.io/badge/nextdotjs-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+ ![Next.JS](https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white")<br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dostiny&layout=compact)](https://github.com/dostiny/github-readme-stats) -->
