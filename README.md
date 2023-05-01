@@ -12,7 +12,6 @@
 
 ## 💻 Tech Stack
  ![python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-<!--  ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white) -->
  ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
  ![react](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
@@ -30,3 +29,5 @@
 <img src="http://mazandi.herokuapp.com/api?handle=dostiny&theme=warm"/><br>
 
 </div>
+
+<!--  ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white) -->
