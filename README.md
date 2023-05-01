@@ -31,3 +31,4 @@
 </div>
 
 <!--  ![django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white) -->
+<!-- https://simpleicons.org/ -->
