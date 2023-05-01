@@ -18,6 +18,7 @@
  ![react](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white)
  ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
  ![Next.JS](https://img.shields.io/badge/Next.JS-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+ ![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
  <br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dostiny&layout=compact)](https://github.com/dostiny/github-readme-stats) -->
