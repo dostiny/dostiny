@@ -20,6 +20,11 @@
  ![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
  <br>
 
+ <div key="1">
+    <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=dostiny width="280" height="140" alt="baekjoon" />
+    <img src=http://mazandi.herokuapp.com/api?handle=dostiny&theme=dark width="285" height="140" alt="solved" />
+  </div>
+ 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dostiny&layout=compact)](https://github.com/dostiny/github-readme-stats) -->
  
 <!-- - I recently studying ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) -->
