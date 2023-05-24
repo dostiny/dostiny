@@ -50,8 +50,6 @@
   </div>
 
 ***
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dostiny)](https://solved.ac/dostiny)
-<img src="http://mazandi.herokuapp.com/api?handle=dostiny&theme=warm"/><br>
 
 </div>
 
